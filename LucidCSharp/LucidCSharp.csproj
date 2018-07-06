@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Description>Provides utility functions for compling CSharp into usable delegates and systems of delegates</Description>
+    <Authors>James Wright</Authors>
+    <Version>0.1.2</Version>
+    <PackageProjectUrl>https://github.com/james-jw/LucidCSharp</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/james-jw/LucidCSharp</RepositoryUrl>
+    <RepositoryType>GIT</RepositoryType>
+    <PackageTags>roslyn csharp compile</PackageTags>
+    <NeutralLanguage>en</NeutralLanguage>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">

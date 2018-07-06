@@ -49,7 +49,6 @@ namespace LucidCSharp
                 using System;
                 using System.Linq;
                 using System.Collections.Generic;
-                using SE.Web.ContextualFeatureApi;
 
                 namespace InMemory {{
                   public static class DynamicClass {{
